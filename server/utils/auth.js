@@ -26,7 +26,7 @@ module.exports = {
     } catch {
       console.log('Invalid token');
       return res.status(400).json({ message: 'invalid token!' });
-    }git 
+    }
 
     // send to next endpoint
     return req
