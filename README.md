@@ -6,6 +6,8 @@
 This application allows users to search for books using Google Books API. Users can create an account, search for books, save books to their profile, then navigate to a tab where they can view saved books and delete books from their account.
 
 In completing this project, I learned how to implent grahql to handle database queries and mutations. Graphql is a powerful tool for minimizing database interactions and can help developers optimize application responsiveness by minimizing bandwith use.
+
+![Google Book Sear](https://user-images.githubusercontent.com/74144055/127591212-4f636cef-ee5e-4e18-b784-798d0732fc1b.png)
    
 ## Table of Contents
     
@@ -21,8 +23,6 @@ In completing this project, I learned how to implent grahql to handle database q
 To use the Workout Tracker, clone the repository by running "git clone `git@github.com:the64man1/Book-Search-Engine.git`' on your console. Then use the command 'npm install' to install the dependencies. Then you can run the command 'npm run develop' to test the functionality of the Book Search Engine on your port localhost:3000. 
 
 Note: As the Book Search Engine uses MongoDB for database purposes, users must have MongoDB installed properly on the local device for the application to work locally.
-
-![Google Book Sear](https://user-images.githubusercontent.com/74144055/127591212-4f636cef-ee5e-4e18-b784-798d0732fc1b.png)
 
 ## Usage
     
