@@ -22,6 +22,8 @@ To use the Workout Tracker, clone the repository by running "git clone `git@gith
 
 Note: As the Book Search Engine uses MongoDB for database purposes, users must have MongoDB installed properly on the local device for the application to work locally.
 
+![Google Book Sear](https://user-images.githubusercontent.com/74144055/127591212-4f636cef-ee5e-4e18-b784-798d0732fc1b.png)
+
 ## Usage
     
 Users are free to use these files to build their own Book Search Engine locally, or enjoy the functionality of the site on Heroku.
